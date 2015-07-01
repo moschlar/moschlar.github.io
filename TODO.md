@@ -1,0 +1,4 @@
+- Include SAUCE-edupar paper
+- Include book (in progress)
+- Include job at Universitätsmedizin
+- Maybe use a style from https://github.com/blog/1081-instantly-beautiful-project-pages
