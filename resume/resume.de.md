@@ -2,29 +2,22 @@
 % Moritz Schlarb
 % 01.07.2015
 
-Geburtstag:
-:   17.10.1989
-Anschrift:
-:   Portlandstr. 9, 55130 Mainz
-Mobil:
-:   +49 151 27525200
+<!--Anschrift:
+:   Portlandstr. 9, 55130 Mainz-->
+<!--Mobil:
+:   +49 151 27525200-->
 E-Mail:
 :   <moschlar@metalabs.de>
 XMPP:
 :   [moschlar@metalabs.de](xmpp:moschlar@metalabs.de)
+Geburtstag:
+:   17.10.1989
 
 
 Berufliche und praktische Erfahrung
 ===================================
 
-## Fachgebiet Bahnsysteme und Bahntechnik, Technische Universität Darmstadt
-
-* **Juli 2014 - heute**, Wissenschaftliche Hilfskraft
-
-    Programmierprojekte für die Lehr- und Forschungseinrichtung
-    "Eisenbahnbetriebsfeld Darmstadt"
-
-## Zentrum für Datenverarbeitung, Johannes Gutenberg-Universität Mainz
+## [Zentrum für Datenverarbeitung, Johannes Gutenberg-Universität Mainz](http://www.zdv.uni-mainz.de/)
 
 *   **Januar 2011 - heute**, Wissenschaftliche Hilfskraft
 
@@ -34,7 +27,14 @@ Berufliche und praktische Erfahrung
     - Bereitstellung, Pflege und Wartung wissenschaftlicher Software
     - Betreuung der wissenschaftlichen Nutzer
 
-## Institut für Informatik, Johannes Gutenberg-Universität Mainz
+##  [Fachgebiet Bahnsysteme und Bahntechnik, Technische Universität Darmstadt](http://www.verkehr.tu-darmstadt.de/bs/bahnsysteme/startseite_bs_1/index.de.jsp)
+
+* **Juli 2014 - Juni 2015 **, Wissenschaftliche Hilfskraft
+
+    Programmierprojekte für die Lehr- und Forschungseinrichtung
+    "[Eisenbahnbetriebsfeld Darmstadt](http://www.eisenbahnbetriebsfeld.de/)"
+
+## [Institut für Informatik, Johannes Gutenberg-Universität Mainz](http://www.informatik.uni-mainz.de/)
 
 *   **Mai 2013 - Juni 2014**, Wissenschaftliche Hilfskraft
 
@@ -76,7 +76,7 @@ Studium und Schulische Ausbildung
 
 *   **April 2013 - heute**
 
-    Technische Universität Darmstadt
+    [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.de.jsp)
 
 ## Informatik, B. Sc.
 
@@ -84,11 +84,11 @@ Titel der Bachelorarbeit: "SAUCE - A System for Automated Code Evaluation"
 
 *   **April 2010 - Januar 2013**
 
-    Johannes Gutenberg-Universität Mainz
+    [Johannes Gutenberg-Universität Mainz](https://www.uni-mainz.de/)
 
 *   **Oktober 2009 - März 2010**
 
-    FernUniversität Hagen
+    [FernUniversität Hagen](http://www.fernuniversitaet-hagen.de/)
 
 ## Abitur
 

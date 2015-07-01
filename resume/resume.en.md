@@ -2,29 +2,22 @@
 % Moritz Schlarb
 % 2015-07-01
 
-Date of birth:
-:   1989-10-17
-Address:
-:   Portlandstr. 9, 55130 Mainz, Germany
-Mobile:
-:   +49 151 27525200
+<!--Address:
+:   Portlandstr. 9, 55130 Mainz, Germany-->
+<!--Mobile:
+:   +49 151 27525200-->
 E-Mail:
 :   <moschlar@metalabs.de>
 XMPP:
 :   [moschlar@metalabs.de](xmpp:moschlar@metalabs.de)
+Date of birth:
+:   1989-10-17
 
 
 Practical Experience
 ====================
 
-## Chair of Railway Engineering, Technische Universität Darmstadt, Germany
-
-* **July 2014 - Present**, Student Assistant
-
-    Various practical programming tasks for the railway related teaching
-    facility "Eisenbahnbetriebsfeld Darmstadt"
-
-## Data Center, Johannes Gutenberg-Universität Mainz, Germany
+## [Data Center, Johannes Gutenberg-Universität Mainz, Germany](http://www.zdv.uni-mainz.de/eng/)
 
 *   **January 2011 - Present**, Student Assistant
 
@@ -34,7 +27,14 @@ Practical Experience
     - Building, installation and deployment of scientific software
     - End user support
 
-## Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany
+## [Chair of Railway Engineering, Technische Universität Darmstadt, Germany](http://www.verkehr.tu-darmstadt.de/bs/bahnsysteme/startseite_bs_1/index.en.jsp)
+
+* **July 2014 - June 2015**, Student Assistant
+
+    Various practical programming tasks for the railway related teaching
+    facility "[Eisenbahnbetriebsfeld Darmstadt](http://www.eisenbahnbetriebsfeld.de/)"
+
+## [Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany](http://www.informatik.uni-mainz.de/titlepage?set_language=en)
 
 *   **May 2013 - June 2014**, Student Assistant
 
@@ -77,7 +77,7 @@ Education
 
 *   **April 2013 - Present**
 
-    Technische Universität Darmstadt, Germany
+    [Technische Universität Darmstadt, Germany](https://www.tu-darmstadt.de/index.en.jsp)
 
 ## Computer Science, B. Sc.
 
@@ -85,10 +85,10 @@ Title of bachelor thesis: "SAUCE - A System for Automated Code Evaluation"
 
 *   **April 2010 - January 2013**
 
-    Johannes Gutenberg-Universität Mainz, Germany
+    [Johannes Gutenberg-Universität Mainz, Germany](https://www.uni-mainz.de/eng/)
 
 *   **October 2009 - March 2010**
 
-    FernUniversität Hagen, Germany
+    [FernUniversität Hagen, Germany](http://www.fernuniversitaet-hagen.de/english/)
 
 
