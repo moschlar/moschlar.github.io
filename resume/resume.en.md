@@ -1,48 +1,30 @@
 % Résumé
 % Moritz Schlarb
-% 2013-09-03
+% 2015-07-01
 
-Moritz Schlarb
-==============
-
+Date of birth:
+:   1989-10-17
+Address:
+:   Portlandstr. 9, 55130 Mainz, Germany
+Mobile:
+:   +49 151 27525200
 E-Mail:
 :   <moschlar@metalabs.de>
 XMPP:
-:   [moritz_schlarb@jabber.ccc.de](xmpp:moritz_schlarb@jabber.ccc.de)
-<!---
-Address:
-:   Portlandstr. 9, 55130 Mainz, Germany
---->
-<!---
-Mobile:
-:   +49 151 27525200
---->
+:   [moschlar@metalabs.de](xmpp:moschlar@metalabs.de)
 
-Education
----------
-
-### Computer Science, M. Sc.
-
-*   **April 2013 - Present**
-
-    Technische Universität Darmstadt, Germany
-
-### Computer Science, B. Sc.
-
-Title of bachelor thesis: "SAUCE - A System for Automated Code Evaluation"
-
-*   **April 2010 - January 2013**
-
-    Johannes Gutenberg-Universität Mainz, Germany
-
-*   **October 2009 - March 2010**
-
-    FernUniversität Hagen, Germany
 
 Practical Experience
----------------
+====================
 
-### Data Center, Johannes Gutenberg-Universität Mainz, Germany
+## Chair of Railway Engineering, Technische Universität Darmstadt, Germany
+
+* **July 2014 - Present**, Student Assistant
+
+    Various practical programming tasks for the railway related teaching
+    facility "Eisenbahnbetriebsfeld Darmstadt"
+
+## Data Center, Johannes Gutenberg-Universität Mainz, Germany
 
 *   **January 2011 - Present**, Student Assistant
 
@@ -52,9 +34,9 @@ Practical Experience
     - Building, installation and deployment of scientific software
     - End user support
 
-### Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany
+## Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany
 
-*   **May 2013 - Current**, Student Assistant
+*   **May 2013 - June 2014**, Student Assistant
 
     Maintenance and development of the SAUCE E-Learning software
 
@@ -67,11 +49,11 @@ Practical Experience
     - Seminar on the internals of a Linux operating system based on Gentoo Linux
     - Introductory courses in C and Python
 
-### Open Source Development
+## Open Source Development
 
 * **[SAUCE](https://github.com/moschlar/SAUCE)** (System for Automated Code Evaluation)
 
-    I created the SAUCE E-Learning software as a practical project for my bachelor thesis and released its source code under an open source license.
+    I created the SAUCE E-Learning software in 2012 as a practical project for my bachelor thesis and released its source code under an open source license.
 
     > "SAUCE is a language-independent, web-based automated assessment tool for programming assignments in practical programming courses within academic environments like universities and schools."
 
@@ -87,3 +69,26 @@ Practical Experience
     - [Seriesly](https://github.com/stefanw/seriesly) (TV show notification service - Python)
     - [Reposado](https://github.com/wdas/reposado) (Apple Software Update service - Python)
     - [Gentoo Linux](http://www.gentoo.org/) (Ebuilds - Bash)
+
+Education
+=========
+
+## Computer Science, M. Sc.
+
+*   **April 2013 - Present**
+
+    Technische Universität Darmstadt, Germany
+
+## Computer Science, B. Sc.
+
+Title of bachelor thesis: "SAUCE - A System for Automated Code Evaluation"
+
+*   **April 2010 - January 2013**
+
+    Johannes Gutenberg-Universität Mainz, Germany
+
+*   **October 2009 - March 2010**
+
+    FernUniversität Hagen, Germany
+
+
